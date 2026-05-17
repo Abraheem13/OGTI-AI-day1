@@ -1,0 +1,103 @@
+SUBJECT: Re: Re: Re: Pipeline Inspection — [PIPELINE-N] — Delay Notification
+================================================================
+
+--- Message 14 (most recent) ---
+From: Adnan Khan (Contractor PM)
+To: Sarah Iqbal (Operations Manager); Tahir Mehmood (HSE Lead); cc: Rashid Aziz (GM Operations)
+Date: Friday 14:42
+
+Sarah, further to our earlier exchange, our inspection crew is now mobilising on Monday morning at 08:00. We confirm the pig-launch will commence by 10:00 subject to the operations clearance you mentioned. Please confirm the OGRA notification has been filed — we cannot run without it. Apologies for the back and forth this week.
+
+--- Message 13 ---
+From: Sarah Iqbal
+To: Adnan Khan; Tahir Mehmood; cc: Rashid Aziz
+Date: Friday 13:15
+
+Adnan, I have just been on the call with HSE. Tahir confirms the gas-testing equipment for the receiver trap was not calibrated by your team. This is the SECOND time this issue has come up. I will not authorise launch until: (1) calibration certificate received, (2) Tahir physically inspects on Monday morning, (3) OGRA notification filed by EOD today. Please respond by 14:30 confirming all three.
+
+--- Message 12 ---
+From: Tahir Mehmood (HSE Lead)
+To: Sarah Iqbal; cc: Adnan Khan; Rashid Aziz
+Date: Friday 11:58
+
+Sarah, escalating to you formally. The calibration certificates the contractor sent yesterday are for last quarter — they have expired. I have asked Adnan twice for the current quarter's certificates. Without these I cannot give HSE clearance and we cannot launch the pig on Monday.
+
+--- Message 11 ---
+From: Adnan Khan
+To: Tahir Mehmood; Sarah Iqbal
+Date: Friday 10:45
+
+Tahir, attached. Apologies for the delay — our QA coordinator was at the [LOCATION] site yesterday.
+
+--- Message 10 ---
+From: Tahir Mehmood
+To: Adnan Khan; cc: Sarah Iqbal
+Date: Friday 09:20
+
+Adnan — gentle reminder, I have not received the gas-testing calibration documents from your end. Originally requested on Wednesday. Please share today.
+
+--- Message 9 ---
+From: Rashid Aziz (GM Operations)
+To: Sarah Iqbal
+Date: Thursday 18:30
+
+Sarah, the Director (Operations) asked me about this in the corridor today. Please make sure we are on track for Monday. I do not want surprises.
+
+--- Message 8 ---
+From: Sarah Iqbal
+To: Adnan Khan; Tahir Mehmood
+Date: Thursday 16:10
+
+All — confirming the revised plan for Monday's pig run. Adnan, please ensure all calibration documents are with Tahir's office by Friday 12:00 at the latest. Tahir, please share the OGRA notification draft with me for sign-off before Friday EOD.
+
+--- Message 7 ---
+From: Tahir Mehmood
+To: Sarah Iqbal; cc: Adnan Khan
+Date: Thursday 14:20
+
+Sarah, the proposed Monday launch is workable from an HSE standpoint IF we have: calibrated gas-testing kit, two trained spotters at the receiver trap, and a confirmed wind-direction reading at 06:00 Monday. I will need OGRA notification 48 hours in advance — so by EOD today.
+
+--- Message 6 ---
+From: Adnan Khan
+To: Sarah Iqbal; cc: Tahir Mehmood
+Date: Thursday 11:50
+
+Sarah, proposing Monday 17 at 10:00 for pig launch. This gives us the weekend to mobilise. Need confirmation from HSE side and OGRA notification window.
+
+--- Message 5 ---
+From: Sarah Iqbal
+To: Adnan Khan
+Date: Wednesday 17:25
+
+Adnan — propose a revised launch date by tomorrow morning. We have 7 days remaining on the regulatory window before we have to formally request an extension from OGRA, which I want to avoid.
+
+--- Message 4 ---
+From: Adnan Khan
+To: Sarah Iqbal
+Date: Wednesday 16:00
+
+Sarah, unfortunately we have to push the inspection date. Two of our certified technicians are unavailable until Sunday. I will revert with a revised plan by tomorrow.
+
+--- Message 3 ---
+From: Sarah Iqbal
+To: Adnan Khan; cc: Tahir Mehmood; Rashid Aziz
+Date: Wednesday 11:00
+
+Adnan, kindly confirm the inspection schedule for [PIPELINE-N] is on track for the originally agreed window. We have an OGRA reporting deadline at the end of the month.
+
+--- Message 2 ---
+From: Adnan Khan
+To: Sarah Iqbal
+Date: Tuesday 14:30
+
+Sarah, our team is finalising the inspection plan. Will share by Wednesday.
+
+--- Message 1 (original) ---
+From: Sarah Iqbal (Operations Manager)
+To: Adnan Khan (Contractor PM); cc: Tahir Mehmood (HSE Lead); Rashid Aziz (GM Operations)
+Date: Monday 09:00
+
+Adnan, please confirm the inline inspection (pigging) schedule for [PIPELINE-N] this month. As discussed, we need this completed within the regulatory reporting window. Awaiting your detailed plan including mobilisation dates, crew certifications and HSE coordination.
+
+Regards,
+Sarah

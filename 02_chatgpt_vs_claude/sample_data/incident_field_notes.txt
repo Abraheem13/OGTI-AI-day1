@@ -1,0 +1,66 @@
+FIELD INCIDENT NOTES — RAW (TRAINING SAMPLE — ANONYMISED)
+================================================================
+Inspector: [INSPECTOR-B]
+Recorded: morning following incident
+Status: Near-miss, no injury, minor environmental impact contained
+Classification: Category 3 (per internal scale; OGRA Section 26 likely applicable)
+
+================================================================
+WHAT HAPPENED (raw, verbatim from field log)
+================================================================
+
+- Time: approximately 14:18, weekday afternoon. Operator was [OPERATOR-A], 18 years' experience.
+- Activity: routine pigging operation at receiver trap, [STATION-N], gas transmission line, diameter 24 inches, pressure rating 1000 psig.
+- Reported sequence:
+    1. Operator opened the trap door per SOP-PIG-04 after pressure-down was confirmed.
+    2. Residual gas release was larger than expected — operator reported "smell stronger than usual, felt warm air."
+    3. Gas detector on operator's belt alarmed at 18% LEL within 4 seconds.
+    4. Operator stepped back to safe distance, alerted control room via handheld radio.
+    5. Control room initiated emergency isolation procedure. Took 9 minutes from alarm to full isolation (procedure target: 5 minutes).
+- No fire. No injury. Operator showed no symptoms — sent for precautionary medical check, cleared same day.
+- Wind direction: westerly, light (~8 km/h). Vapour plume drifted away from main building toward open field — favourable.
+- Estimated release: ~25 cubic metres of gas. Calculated from line volume and isolation timing.
+- Three contractors were within 30 metres but downwind by approximately 90 degrees. They were instructed to evacuate by the operator personally.
+
+================================================================
+WHAT MAY HAVE GONE WRONG
+================================================================
+
+- The pressure-down indicator at the trap valve showed atmospheric, but the actual upstream check valve may have been partially seized. This is a working hypothesis pending physical inspection.
+- Last functional test of the upstream check valve: 11 months ago. Schedule says 6-monthly.
+- Operator followed the SOP correctly — this is NOT a procedural compliance issue at the operator level.
+- The 9-minute response time vs 5-minute target points to a control-room procedure gap. Initial review suggests:
+    * Radio handover protocol was unclear — the duty controller was busy with another task
+    * Emergency isolation valve actuator showed slow response time — may need maintenance
+- Contractors were within the gas exclusion zone — a procedural breach. The contractor supervisor had been briefed but the briefing was 3 days prior, not 24 hours.
+
+================================================================
+IMMEDIATE ACTIONS TAKEN
+================================================================
+
+- Operator [OPERATOR-A] medically cleared and stood down for the remainder of shift
+- Pig launch suspended for the entire line
+- Upstream check valve isolated, line de-pressured fully
+- Contractors withdrawn from station
+- Incident response team mobilised within 12 minutes
+- GM Operations briefed verbally at 15:30 same day
+- Internal incident form 02-A initiated; OGRA disclosure draft started
+
+================================================================
+RECOMMENDED CAPA (corrective and preventive actions)
+================================================================
+
+- Immediate: physical inspection and pressure-test of upstream check valve
+- Within 7 days: review of all check valves overdue for functional testing across the line
+- Within 14 days: control-room radio handover protocol revised; tabletop exercise scheduled
+- Within 30 days: contractor pre-job briefing made mandatory within 24h of any pigging activity
+- Within 60 days: emergency isolation valve actuators inspected across the network
+
+================================================================
+INSPECTOR'S PERSONAL OBSERVATIONS (not for external disclosure)
+================================================================
+
+- The operator's quick reaction — stepping back at 18% LEL rather than continuing — likely prevented a more serious outcome
+- The control room response time gap is concerning and may indicate workload / staffing issues
+- Maintenance backlog is real. Check-valve schedule slippage is not unique to this station.
+- Recommend GM Operations raises this with Director (Maintenance) — pattern issue, not one-station issue.

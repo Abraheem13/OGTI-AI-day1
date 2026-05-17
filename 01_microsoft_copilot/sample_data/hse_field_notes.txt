@@ -1,0 +1,53 @@
+HSE FIELD INSPECTION NOTES — RAW (handwritten, transcribed)
+=============================================================
+Inspector: [INSPECTOR-A]
+Date of incident: [DATE-X]
+Date of inspection: [DATE-X+1]
+Location: Refinery Block C, Tank Farm Section 4, Tank T-104
+Severity: Moderate (no injury, near-miss, environmental release contained)
+
+RAW NOTES (verbatim from field):
+
+- Reported 06:42 by night-shift operator. Hissing sound near base flange of T-104. Crude tank, ~30,000 bbl, in service ~22 yrs.
+- Operator isolated upstream valve V-204 within 4 min. Good response.
+- Estimated release: ~50–80 litres before isolation. Contained within bund wall. No off-site impact.
+- Gas detector at flange reading: 28% LEL at 07:05 → dropped to 8% LEL by 07:30 after foam application.
+- No fire. No injury. No medical treatment needed.
+- Wind direction: south-easterly, ~12 km/h. Worked in our favour — vapour pushed away from control room.
+- Root cause (initial assessment): bolt corrosion on flange. Last inspection cycle on this flange: 14 months ago (overdue — should have been 12).
+- Bolt sample collected for metallurgical analysis. Lab report pending — expected in 5 working days.
+- Contractor on site (cleaning subcontractor) was evacuated within 6 minutes — head count confirmed at muster point.
+- HSE incident form 02-A filled. Not yet filed with OGRA — within 48h window per Section 26.
+
+CONTRIBUTING FACTORS NOTED:
+
+- Wet monsoon weather past 3 weeks — possibly accelerated corrosion under insulation (CUI)
+- Inspection schedule slipped due to crew shortage during Eid leave period
+- No remote leak-detection sensor on this flange — only on the tank shell itself
+- Last paint/coating job on flange visible signs of weather wear
+
+IMMEDIATE ACTIONS TAKEN:
+
+- T-104 emptied to T-106 by 10:30 same day
+- Flange isolated, area cordoned, hot work permits suspended in section
+- Plant maintenance notified, replacement parts ordered
+- Toolbox talk delivered to all section staff at 14:00
+
+REGULATORY:
+
+- OGRA Section 26 disclosure: due within 48h
+- PEPA / SEPA notification: not triggered (no off-site release)
+- Internal: GM Operations briefed verbally same day; written incident report due in 7 days
+
+LESSONS — INSPECTOR'S PERSONAL VIEW:
+
+- Inspection cycle slippage is a recurring issue. Need a stronger discipline / digital reminder system.
+- Worth considering retrofit acoustic leak sensors on critical flanges
+- CUI on monsoon-exposed equipment needs a focused review across all tank farms before next rainy season
+
+RECOMMENDATIONS:
+
+- All flange inspections >11 months overdue: prioritise this month
+- Procure acoustic leak sensors for 12 highest-risk flanges in next budget cycle
+- Add monsoon-pre-season inspection sweep to annual plan
+- Refresher training on bolt-torque and corrosion identification for technicians within 30 days
