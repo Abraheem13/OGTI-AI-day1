@@ -1,4 +1,4 @@
-# Practical AI for Oil & Gas — Hands-On Training Repository
+# Practical AI for Oil & Gas (Hands-On Training Repository)
 
 **Day 1 | OGTI Islamabad | IBA CICT Executive Programme**
 
